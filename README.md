@@ -1,6 +1,20 @@
 
 # Alzheimer’s Disease Diagnosis using CNN 
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Model Performance](#model-performance)
+  - [Transfer Learning with DenseNet-121](#transfer-learning-with-densenet-121)
+  - [K-Fold Cross-Validation](#k-fold-cross-validation)
+  - [ROC-AUC Score](#roc-auc-score)
+- [Snapshots](#snapshots)
+  - [ROC-AUC Curve](#roc-auc-curve)
+  - [Front-End Interface](#front-end-interface)
+- [Acknowledgements](#acknowledgements)
+- [Authors](#authors)
+
 ## Introduction
 
 This project offers an innovative solution for diagnosing Alzheimer's disease by combining advanced deep learning techniques, optimization algorithms, and medical image processing. It focuses on multi-class classification to differentiate between Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Cognitively Normal (CN) stages using MRI scans, thereby enhancing early detection and improving diagnostic accuracy. By employing transfer learning with a DenseNet-121 model pre-trained on the RadImageNet database, this tool aims to significantly contribute to better patient outcomes through more precise diagnoses. The application features a user-friendly front-end interface that allows for easy image uploads and provides immediate classification results, making it accessible for clinical use.
