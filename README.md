@@ -19,7 +19,7 @@
 
 ## Introduction
 
-This project offers an innovative solution for diagnosing Alzheimer's disease by combining advanced deep learning techniques, optimization algorithms, and medical image processing. It focuses on multi-class classification to differentiate between Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Cognitively Normal (CN) stages using MRI scans, thereby enhancing early detection and improving diagnostic accuracy. By employing transfer learning with a DenseNet-121 model pre-trained on the RadImageNet database, this tool aims to significantly contribute to better patient outcomes through more precise diagnoses. The application features a user-friendly front-end interface that allows for easy image uploads and provides immediate classification results, making it accessible for clinical use.
+This project offers an innovative solution for diagnosing Alzheimer's disease by combining advanced deep-learning techniques, optimization algorithms, and medical image processing. It focuses on the multi-class classification to differentiate between Alzheimer's Disease (AD), Mild Cognitive Impairment (MCI), and Cognitively Normal (CN) stages using MRI scans, thereby enhancing early detection and improving diagnostic accuracy. By employing transfer learning with a DenseNet-121 model pre-trained on the RadImageNet database, this tool aims to contribute to better patient outcomes through more precise diagnoses significantly. The application features a user-friendly front-end interface that allows easy image uploads and provides immediate classification results, making it accessible for clinical use.
 
 
 ## Features
