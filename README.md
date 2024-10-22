@@ -56,7 +56,7 @@ The Receiver Operating Characteristic (ROC) curve and the Area Under the Curve (
 
 <img width="717" alt="Screenshot 2024-10-11 at 2 26 13 AM" src="https://github.com/user-attachments/assets/35eec27a-ee3f-40d2-b695-03ab573853f0">
 
-The ROC-AUC curve demonstrates the trade-off between sensitivity and specificity at various threshold settings.
+The ROC-AUC curve demonstrates the trade-off between the sensitivity and the specificity at various threshold settings.
 
 ### Front-End Interface
 
