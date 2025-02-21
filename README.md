@@ -1,8 +1,6 @@
 
 # Alzheimer’s Disease Diagnosis using CNN 
 
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
